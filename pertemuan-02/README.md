@@ -176,10 +176,10 @@ Jadi, penyebab errornya adalah penulisan route yang kurang tepat. Setelah tanda 
 ## 8. Bukti Tangkapan Layar 
 
 ### Gambar 1. Hasil Pengujian Halaman Utama  
-![Gambar 1 - Halaman Utama](dokumentasi/gambar1.png)  
+![Gambar 1 - Halaman Utama](Dokumentasi/Gambar1.png)  
  
 ### Gambar 2. Hasil Pengujian Custom Route  
-![Gambar 2 - Custom Route](dokumentasi/gambar2.png) 
+![Gambar 2 - Custom Route](Dokumentasi/Gambar2.png) 
 
 ## 9. Kesimpulan dari Screenshoot
 
