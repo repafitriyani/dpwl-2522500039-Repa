@@ -9,38 +9,22 @@ tujuannya : untuk mengatur seluruh proses yang berhubungan dengan data pembayara
 tujuannya : mengatur proses pembayaran yang dilakukan oleh penyewa
 
 
+
 # P9 - Pengembangan Sistem Pembayaran
 
-## 5. Dokumentasi Halaman Pembayaran Penyewa
+## Dokumentasi P9
 
-Berikut merupakan tampilan halaman pembayaran yang digunakan oleh penyewa untuk melihat informasi pembayaran dan mengunggah bukti transfer.
+### Gambar 1
+![Dokumentasi P9 Gambar 1](./dokumentasi/gambar1.png)
 
-![pertemuan-09](dokumentasi/gambar1)
+### Gambar 2
+![Dokumentasi P9 Gambar 2](./dokumentasi/gambar2.png)
 
-## 6. Dokumentasi Daftar dan Detail Verifikasi Admin
+### Gambar 3
+![Dokumentasi P9 Gambar 3](./dokumentasi/gambar3.png)
 
-### a. Daftar Verifikasi Pembayaran
+### Gambar 4
+![Dokumentasi P9 Gambar 4](./dokumentasi/gambar4.png)
 
-Halaman ini digunakan admin untuk melihat daftar pembayaran yang menunggu proses verifikasi.
-
-![pertemuan-09](dokumentasi/gambar2)
-
-### b. Detail Verifikasi Pembayaran
-
-Admin dapat melihat bukti transfer yang telah diunggah oleh penyewa sebelum melakukan verifikasi.
-
-![pertemuan-09](dokumentasi/gambar3)
-
-## 7. Dokumentasi Hasil Verifikasi Pembayaran
-
-### a. Pembayaran Diterima
-
-Berikut merupakan tampilan ketika pembayaran penyewa berhasil diterima atau dinyatakan valid oleh admin.
-
-![pertemuan-09](dokumentasi/gambar4)
-
-### b. Pembayaran Ditolak
-
-Berikut merupakan tampilan ketika pembayaran penyewa ditolak atau dinyatakan tidak valid oleh admin.
-
-![pertemuan-09](dokumentasi/gambar5)
+### Gambar 5
+![Dokumentasi P9 Gambar 5](./dokumentasi/gambar5.png)
