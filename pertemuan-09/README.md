@@ -15,7 +15,7 @@ tujuannya : mengatur proses pembayaran yang dilakukan oleh penyewa
 
 Berikut merupakan tampilan halaman pembayaran yang digunakan oleh penyewa untuk melihat informasi pembayaran dan mengunggah bukti transfer.
 
-![Halaman Pembayaran Penyewa](dokumentasi/gambar1)
+![pertemuan-09](dokumentasi/gambar1)
 
 ## 6. Dokumentasi Daftar dan Detail Verifikasi Admin
 
@@ -23,13 +23,13 @@ Berikut merupakan tampilan halaman pembayaran yang digunakan oleh penyewa untuk 
 
 Halaman ini digunakan admin untuk melihat daftar pembayaran yang menunggu proses verifikasi.
 
-![Daftar Verifikasi Admin](dokumentasi/gambar2)
+![pertemuan-09](dokumentasi/gambar2)
 
 ### b. Detail Verifikasi Pembayaran
 
 Admin dapat melihat bukti transfer yang telah diunggah oleh penyewa sebelum melakukan verifikasi.
 
-![Detail Verifikasi Admin](dokumentasi/gambar3)
+![pertemuan-09](dokumentasi/gambar3)
 
 ## 7. Dokumentasi Hasil Verifikasi Pembayaran
 
@@ -37,10 +37,10 @@ Admin dapat melihat bukti transfer yang telah diunggah oleh penyewa sebelum mela
 
 Berikut merupakan tampilan ketika pembayaran penyewa berhasil diterima atau dinyatakan valid oleh admin.
 
-![Pembayaran Diterima](dokumentasi/gambar4)
+![pertemuan-09](dokumentasi/gambar4)
 
 ### b. Pembayaran Ditolak
 
 Berikut merupakan tampilan ketika pembayaran penyewa ditolak atau dinyatakan tidak valid oleh admin.
 
-![Pembayaran Ditolak](dokumentasi/gambar5)
+![pertemuan-09](dokumentasi/gambar5)
